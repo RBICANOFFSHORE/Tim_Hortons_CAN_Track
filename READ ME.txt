@@ -1,3 +1,0 @@
-
-
-This folder will be used for uploading the Master Code for RBI CAN Track POS Automation in GitHub.
