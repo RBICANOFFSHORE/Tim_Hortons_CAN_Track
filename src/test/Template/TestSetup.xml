@@ -1,0 +1,5 @@
+<testsetup>
+    <testname name="com.testcases.framework.RBIContent" run="no"/>
+    <testname name="com.testcases.framework.TestCase_TH_001" run="yes"/>
+    <testname name="com.testcases.framework.TestCaserPin001" run="yes"/>
+</testsetup>

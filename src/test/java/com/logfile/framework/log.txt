@@ -1,0 +1,402 @@
+2021/06/28 14:43:48     INFO : Chrome Driver Returned
+2021/06/28 14:53:10     INFO : Chrome Driver Returned
+2021/06/28 14:53:17     INFO : Chrome Driver Returned
+2021/06/28 15:01:20     INFO : Chrome Driver Returned
+2021/06/28 15:01:24     INFO : Chrome Driver Returned
+2021/06/28 17:42:54     INFO : Chrome Driver Returned
+2021/06/28 17:42:59     INFO : Chrome Driver Returned
+2021/06/28 17:43:07     INFO : Chrome Driver Returned
+2021/06/28 17:45:58     INFO : Exception happened while working on waitPredicate.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.101.212', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56549}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5069c6d6f08de9988f421d83fedaffb7
+*** Element info: {Using=xpath, value=//button[contains(.,' Continue ')]}
+2021/06/28 17:45:58     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.101.212', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56549}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5069c6d6f08de9988f421d83fedaffb7
+*** Element info: {Using=xpath, value=//button[contains(.,' Continue ')]}
+2021/06/28 17:45:58     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.101.212', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56549}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5069c6d6f08de9988f421d83fedaffb7
+*** Element info: {Using=xpath, value=//div[@class = 'message-list']/descendant::i[1]}
+2021/06/28 17:46:09     INFO : Test Execution finished.
+2021/06/28 17:46:24     INFO : Chrome Driver Returned
+2021/06/28 17:46:24     INFO : Chrome Driver Returned
+2021/06/28 17:47:30     INFO : Test Execution finished.
+2021/06/28 17:49:07     INFO : Chrome Driver Returned
+2021/06/28 17:50:08     INFO : Chrome Driver Returned
+2021/06/28 17:50:24     INFO : Test Execution finished.
+2021/06/28 17:55:19     INFO : Chrome Driver Returned
+2021/06/28 17:55:23     INFO : Chrome Driver Returned
+2021/06/28 17:56:35     INFO : Test Execution finished.
+2021/06/28 21:41:42     INFO : Chrome Driver Returned
+2021/06/28 21:41:49     INFO : Exception happened while getting Test Case name from class annotations
+java.lang.NullPointerException
+2021/06/28 21:58:34     INFO : Chrome Driver Returned
+2021/06/28 22:04:02     INFO : Chrome Driver Returned
+2021/06/28 22:05:44     INFO : Chrome Driver Returned
+2021/06/28 22:10:14     INFO : Chrome Driver Returned
+2021/06/28 23:21:19     INFO : Chrome Driver Returned
+2021/06/28 23:21:27     INFO : Chrome Driver Returned
+2021/06/28 23:22:38     INFO : Test Execution finished.
+2021/06/28 23:26:10     INFO : Chrome Driver Returned
+2021/06/28 23:27:09     INFO : Chrome Driver Returned
+2021/06/28 23:27:20     INFO : Test Execution finished.
+2021/06/29 15:06:57     INFO : Chrome Driver Returned
+2021/06/29 15:08:01     INFO : Chrome Driver Returned
+2021/06/29 15:11:33     INFO : Chrome Driver Returned
+2021/06/29 15:12:43     INFO : Chrome Driver Returned
+2021/06/29 15:20:37     INFO : Chrome Driver Returned
+2021/06/29 15:21:36     INFO : Chrome Driver Returned
+2021/06/29 15:21:48     INFO : Test Execution finished.
+2021/06/29 15:29:05     INFO : Chrome Driver Returned
+2021/06/29 15:30:01     INFO : Chrome Driver Returned
+2021/06/29 15:30:12     INFO : Test Execution finished.
+2021/06/29 15:32:27     INFO : Chrome Driver Returned
+2021/06/29 15:32:38     INFO : Test Execution finished.
+2021/07/09 17:24:40     INFO : Exception in main driver. Please check all the setup and try again
+java.lang.NullPointerException
+2021/07/09 17:24:40     INFO : Test Execution finished.
+2021/07/09 17:26:51     INFO : Exception in main driver. Please check all the setup and try again
+java.lang.NullPointerException
+2021/07/09 17:26:57     INFO : Test Execution finished.
+2021/07/13 00:05:32     INFO : Chrome Driver Returned
+2021/07/13 00:05:36     INFO : Exception while returning Chrome Driver
+org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 90
+Current browser version is 89.0.4389.90 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN253224', ip: '192.168.1.95', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: GetDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0057C013+2474003]
+	Ordinal0 [0x005129C1+2042305]
+	Ordinal0 [0x00422F68+1060712]
+	Ordinal0 [0x0044188E+1185934]
+	Ordinal0 [0x0043D600+1168896]
+	Ordinal0 [0x0043AA83+1157763]
+	Ordinal0 [0x0046A2A2+1352354]
+	Ordinal0 [0x00468FAA+1347498]
+	Ordinal0 [0x004666DB+1337051]
+	Ordinal0 [0x00443427+1192999]
+	Ordinal0 [0x004442EE+1196782]
+	Ordinal0 [0x00444279+1196665]
+	GetHandleVerifier [0x007096FC+1590332]
+	GetHandleVerifier [0x007B8614+2306900]
+	GetHandleVerifier [0x00609E93+543699]
+	GetHandleVerifier [0x006092CE+540686]
+	Ordinal0 [0x005186BA+2066106]
+	Ordinal0 [0x0051D1C8+2085320]
+	Ordinal0 [0x0051D308+2085640]
+	Ordinal0 [0x005267F3+2123763]
+	BaseThreadInitThunk [0x75466359+25]
+	RtlGetAppContainerNamedObjectPath [0x773B87A4+228]
+	RtlGetAppContainerNamedObjectPath [0x773B8774+180]
+
+2021/07/13 00:05:36     INFO : Unable to get URL.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "wd" is null
+2021/07/13 00:05:40     INFO : Unable to enter data on element.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "wd" is null
+2021/07/13 00:05:44     INFO : Unable to complete. Please check the log.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.getWindowHandle()" because "this.wd" is null
+2021/07/13 00:05:57     INFO : Chrome Driver Returned
+2021/07/13 00:06:00     INFO : Exception while returning Chrome Driver
+org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 90
+Current browser version is 89.0.4389.90 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN253224', ip: '192.168.1.95', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: GetDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x0057C013+2474003]
+	Ordinal0 [0x005129C1+2042305]
+	Ordinal0 [0x00422F68+1060712]
+	Ordinal0 [0x0044188E+1185934]
+	Ordinal0 [0x0043D600+1168896]
+	Ordinal0 [0x0043AA83+1157763]
+	Ordinal0 [0x0046A2A2+1352354]
+	Ordinal0 [0x00468FAA+1347498]
+	Ordinal0 [0x004666DB+1337051]
+	Ordinal0 [0x00443427+1192999]
+	Ordinal0 [0x004442EE+1196782]
+	Ordinal0 [0x00444279+1196665]
+	GetHandleVerifier [0x007096FC+1590332]
+	GetHandleVerifier [0x007B8614+2306900]
+	GetHandleVerifier [0x00609E93+543699]
+	GetHandleVerifier [0x006092CE+540686]
+	Ordinal0 [0x005186BA+2066106]
+	Ordinal0 [0x0051D1C8+2085320]
+	Ordinal0 [0x0051D308+2085640]
+	Ordinal0 [0x005267F3+2123763]
+	BaseThreadInitThunk [0x75466359+25]
+	RtlGetAppContainerNamedObjectPath [0x773B87A4+228]
+	RtlGetAppContainerNamedObjectPath [0x773B8774+180]
+
+2021/07/13 00:06:00     INFO : Unable to get URL.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "wd" is null
+2021/07/13 00:06:04     INFO : Unable to enter data on element.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "wd" is null
+2021/07/13 00:06:08     INFO : Unable to complete. Please check the log.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.getWindowHandle()" because "this.wd" is null
+2021/07/13 13:04:16     INFO : Chrome Driver Returned
+2021/07/13 13:04:19     INFO : Exception while returning Chrome Driver
+org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 90
+Current browser version is 89.0.4389.90 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN253224', ip: '192.168.1.95', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '16.0.1'
+Driver info: driver.version: GetDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00F9C013+2474003]
+	Ordinal0 [0x00F329C1+2042305]
+	Ordinal0 [0x00E42F68+1060712]
+	Ordinal0 [0x00E6188E+1185934]
+	Ordinal0 [0x00E5D600+1168896]
+	Ordinal0 [0x00E5AA83+1157763]
+	Ordinal0 [0x00E8A2A2+1352354]
+	Ordinal0 [0x00E88FAA+1347498]
+	Ordinal0 [0x00E866DB+1337051]
+	Ordinal0 [0x00E63427+1192999]
+	Ordinal0 [0x00E642EE+1196782]
+	Ordinal0 [0x00E64279+1196665]
+	GetHandleVerifier [0x011296FC+1590332]
+	GetHandleVerifier [0x011D8614+2306900]
+	GetHandleVerifier [0x01029E93+543699]
+	GetHandleVerifier [0x010292CE+540686]
+	Ordinal0 [0x00F386BA+2066106]
+	Ordinal0 [0x00F3D1C8+2085320]
+	Ordinal0 [0x00F3D308+2085640]
+	Ordinal0 [0x00F467F3+2123763]
+	BaseThreadInitThunk [0x758A6359+25]
+	RtlGetAppContainerNamedObjectPath [0x77C087A4+228]
+	RtlGetAppContainerNamedObjectPath [0x77C08774+180]
+
+2021/07/13 13:04:19     INFO : Unable to get URL.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "wd" is null
+2021/07/13 13:04:23     INFO : Unable to enter data on element.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "wd" is null
+2021/07/13 13:04:27     INFO : Unable to complete. Please check the log.
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.getWindowHandle()" because "this.wd" is null
+2021/07/12 09:54:35     INFO : Chrome Driver Returned
+2021/07/12 10:24:49     INFO : Chrome Driver Returned
+2021/07/12 10:25:58     INFO : Chrome Driver Returned
+2021/07/12 13:20:24     INFO : Chrome Driver Returned
+2021/07/12 13:50:00     INFO : Chrome Driver Returned
+2021/07/12 13:51:10     INFO : Chrome Driver Returned
+2021/07/12 14:04:30     INFO : Chrome Driver Returned
+2021/07/12 14:06:21     INFO : Chrome Driver Returned
+2021/07/12 14:20:19     INFO : Chrome Driver Returned
+2021/07/12 14:37:15     INFO : Chrome Driver Returned
+2021/07/12 14:38:17     INFO : Unable to click on element.
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53223}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: acd49108e2c8845e4b77817d7db3bc2b
+2021/07/12 14:38:52     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-storetitle='1 Austin Terrace']"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53223}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: acd49108e2c8845e4b77817d7db3bc2b
+*** Element info: {Using=xpath, value=//button[@data-storetitle='1 Austin Terrace']}
+2021/07/12 14:39:27     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(),'Order')][1]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:53223}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: acd49108e2c8845e4b77817d7db3bc2b
+*** Element info: {Using=xpath, value=//button[contains(text(),'Order')][1]}
+2021/07/12 14:40:26     INFO : Chrome Driver Returned
+2021/07/12 14:41:14     INFO : Unable to click on element.
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62407}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 36c3bc112e535f44a355fd071dd379b8
+2021/07/12 14:41:49     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-storetitle='1 Austin Terrace']"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:62407}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 36c3bc112e535f44a355fd071dd379b8
+*** Element info: {Using=xpath, value=//button[@data-storetitle='1 Austin Terrace']}
+2021/07/12 14:42:18     INFO : Chrome Driver Returned
+2021/07/12 14:43:20     INFO : Unable to click on element.
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55283}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 848507ff05689be63f8ae45d9e80611e
+2021/07/12 14:49:32     INFO : Chrome Driver Returned
+2021/07/12 14:50:19     INFO : Unable to click on element.
+org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed9d3242d945a0a0e850a79106897758
+2021/07/12 14:50:54     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-storetitle='1 Austin Terrace']"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed9d3242d945a0a0e850a79106897758
+*** Element info: {Using=xpath, value=//button[@data-storetitle='1 Austin Terrace']}
+2021/07/12 14:51:30     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(),'Order')][1]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.161.74.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ed9d3242d945a0a0e850a79106897758
+*** Element info: {Using=xpath, value=//button[contains(text(),'Order')][1]}
+2021/07/12 16:07:28     INFO : Chrome Driver Returned
+2021/07/12 16:08:42     INFO : Unable to get URL.
+org.openqa.selenium.WebDriverException: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=90.0.4430.212)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+2021/07/12 16:09:15     INFO : Unable to enter data on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name = 'password']"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//input[@name = 'password']}
+2021/07/12 16:09:45     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".button"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=css selector, value=.button}
+2021/07/12 16:10:18     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[starts-with(text(), 'Canada')][1]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//span[starts-with(text(), 'Canada')][1]}
+2021/07/12 16:10:48     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[starts-with(text(), 'Apply')]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//button[starts-with(text(), 'Apply')]}
+2021/07/12 16:11:21     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-testid='bottom-service-location']"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//button[@data-testid='bottom-service-location']}
+2021/07/12 16:11:51     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[starts-with(text(), 'Pick Up')]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//div[starts-with(text(), 'Pick Up')]}
+2021/07/12 16:12:26     INFO : Unable to enter data on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id = 'storelocator-input']"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//input[@id = 'storelocator-input']}
+2021/07/12 16:13:00     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-testid='prediction-0']/child::span[1]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//button[@data-testid='prediction-0']/child::span[1]}
+2021/07/12 16:13:35     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@data-storetitle='1 Austin Terrace']"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//button[@data-storetitle='1 Austin Terrace']}
+2021/07/12 16:14:10     INFO : Unable to click on element.
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(text(),'Order')][1]"}
+  (Session info: chrome=90.0.4430.212)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LTIN117399', ip: '10.147.55.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.212, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\136300\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:55733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3756f22c4a2c8c886178b8556a6db413
+*** Element info: {Using=xpath, value=//button[contains(text(),'Order')][1]}
+2021/07/12 16:17:57     INFO : Chrome Driver Returned

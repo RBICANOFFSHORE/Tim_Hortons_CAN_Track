@@ -1,0 +1,32 @@
+[
+  {
+    "item": {
+      "size": "",
+      "sub_category": "",
+      "region": "National",
+      "price": "3.99",
+      "item_name": "Grilled Breakfast Wrap",
+      "category": "Breakfast"
+    }
+  },
+  {
+    "item": {
+      "size": "Medium",
+      "sub_category": "",
+      "region": "National",
+      "price": "2.99",
+      "item_name": "Iced Capp",
+      "category": "Cold Beverages"
+    }
+  },
+  {
+    "item": {
+      "size": "",
+      "region": "National",
+      "sub_category": "Muffins",
+      "price": "1.59",
+      "item_name": "Chocolate Chip Muffin",
+      "category": "Baked Goods"
+    }
+  }
+]

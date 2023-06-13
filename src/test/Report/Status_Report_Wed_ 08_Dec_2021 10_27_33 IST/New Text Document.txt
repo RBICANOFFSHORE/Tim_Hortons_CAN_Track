@@ -1,0 +1,50 @@
+public PageObjects clickApplyBtn(){
+		//clicking apply button
+		
+				try {
+					clickP(driver.findElement(applyBtn));
+					test.log(LogStatus.PASS, "Clicking on Apply button");
+					driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+				} catch (Exception e1) {
+					// TODO Auto-generated catch block
+					test.log(LogStatus.FAIL, "Clicking on Apply button");
+					e1.printStackTrace();
+				}
+				return this;
+	}
+
+	public PageObjects enterOtp(){
+		try {
+			//Call OTP fetch
+			delay(10);
+			String accessToken = GmailApiUtil.generateAccessToken(propReader.getConfigval("email"));
+			String id = GmailApiUtil.findAllEmailId(accessToken);
+			String Otp = GmailApiUtil.findLastReceivedEmailBody(accessToken, id).substring(140, 146);
+
+			//entering Otp
+			sendKeysP(driver.findElement(OtpTextBox),Otp);
+			test.log(LogStatus.PASS, "Enter Otp ");
+			driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			test.log(LogStatus.FAIL, "Enter Otp ");
+			e1.printStackTrace();
+		}
+		return this;
+	}
+
+	public PageObjects validateLogin(){
+		//verify login
+		try {
+			driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
+			driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+			wait.until(ExpectedConditions.visibilityOf(driver.findElement(accountLink)));
+			test.log(LogStatus.PASS, "User Logged in");
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			test.log(LogStatus.FAIL, "User Logged in");
+			e1.printStackTrace();
+			throw e1;
+		}
+		return this;
+	}

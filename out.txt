@@ -1,0 +1,3 @@
+PASS: MD Original Blend price is correct
+FAIL: Classic Donut price is incorrect
+PASS: Retail item's price is correct

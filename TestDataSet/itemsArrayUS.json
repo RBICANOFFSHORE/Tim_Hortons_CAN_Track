@@ -1,0 +1,29 @@
+[
+  {
+    "item": {
+      "size": "",
+      "sub_category": "",
+      "price": "3.59",
+      "item_name": "Sausage, Egg & Cheese Breakfast Sandwich",
+      "category": "Breakfast"
+    }
+  },
+  {
+    "item": {
+      "size": "Small",
+      "sub_category": "",
+      "price": "3.09",
+      "item_name": "Iced Capp",
+      "category": "Cold Beverages"
+    }
+  },
+  {
+    "item": {
+      "size": "",
+      "sub_category": "Muffins",
+      "price": "1.79",
+      "item_name": "Chocolate Chip Muffin",
+      "category": "Baked Goods"
+    }
+  }
+]

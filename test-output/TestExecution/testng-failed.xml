@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestExecution]">
+  <test thread-count="5" name="AutomationExecution(failed)">
+    <classes>
+      <class name="com.testcases.framework.SecondsTestCase">
+        <methods>
+          <include name="geturl"/>
+        </methods>
+      </class> <!-- com.testcases.framework.SecondsTestCase -->
+      <class name="com.testcases.framework.FirstTestCase">
+        <methods>
+          <include name="geturl"/>
+        </methods>
+      </class> <!-- com.testcases.framework.FirstTestCase -->
+    </classes>
+  </test> <!-- AutomationExecution(failed) -->
+</suite> <!-- Failed suite [TestExecution] -->
